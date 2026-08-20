@@ -4,12 +4,28 @@
 
 I’m a UI/UX designer focused on creating clean, intuitive, and meaningful digital experiences. I enjoy turning ideas into polished interfaces through user flows, wireframes, prototypes, and high-fidelity designs.
 
-## 🎨 Featured Project
+## 🎨 Featured Work
 
-### VIRASAT — Premium Streetwear Brand App
+### 01 — VIRASAT: Premium Streetwear Brand App
 A premium mobile shopping experience designed for a modern streetwear brand.
 
-**Focus:** UX/UI Design • User Flow • Wireframing • Prototyping • Visual Design
+**Focus:** UX/UI Design · User Flow · Wireframing · Prototyping · Visual Design
+
+[View project →](./projects/virasat/)
+
+### 02 — Student Management System
+A Java project focused on organizing and managing student records.
+
+**Focus:** Java · Object-Oriented Programming · Data Management
+
+[View project →](./projects/student-management-system/)
+
+### 03 — Student Attendance System
+A web application concept designed to simplify student attendance tracking, with a planned QR-based workflow.
+
+**Focus:** Product Thinking · User Flow · Attendance Management
+
+[View project →](./projects/attendance-system/)
 
 ## 🧩 Skills
 
@@ -21,6 +37,7 @@ A premium mobile shopping experience designed for a modern streetwear brand.
 - Design Systems
 - Responsive Design
 - Visual Design
+- Java fundamentals
 
 ## 🚀 What I'm Looking For
 
