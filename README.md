@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @Shoaibakther78
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Mohammad Shoaib
 
-<!---
-Shoaibakther78/Shoaibakther78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### UI/UX Designer | Figma | Product Design
+
+I’m a UI/UX designer focused on creating clean, intuitive, and meaningful digital experiences. I enjoy turning ideas into polished interfaces through user flows, wireframes, prototypes, and high-fidelity designs.
+
+## 🎨 Featured Project
+
+### VIRASAT — Premium Streetwear Brand App
+A premium mobile shopping experience designed for a modern streetwear brand.
+
+**Focus:** UX/UI Design • User Flow • Wireframing • Prototyping • Visual Design
+
+## 🧩 Skills
+
+- Figma
+- UI/UX Design
+- Wireframing
+- Prototyping
+- User Flows
+- Design Systems
+- Responsive Design
+- Visual Design
+
+## 🚀 What I'm Looking For
+
+I’m currently looking for opportunities where I can contribute as a **UI/UX Designer** and continue growing through real-world product design challenges.
+
+## 🔗 Connect With Me
+
+- **GitHub:** [Shoaibakther78](https://github.com/Shoaibakther78)
+- **Portfolio:** Coming soon
+- **LinkedIn:** Add your LinkedIn profile here
+
+---
+
+⭐ Thanks for visiting my profile!
